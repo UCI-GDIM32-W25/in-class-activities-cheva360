@@ -27,11 +27,11 @@ Q4: What kind of classes are the Update and Debug.Log methods usable in? I.e., w
 
 Q5: What do these lines of code do?
 
-- 10 is the argument put for the PrintMessage function printing in the console "x = 10"
+- 10 is the argument put for the PrintMessage functions paremeter printing in the console "x = 10"
 
 Q6: What are the name & purpose of these highlighted lines of code?
 
-- 10 is the parameter of the function which can be changed and the parenthesis is what the debug is logging in the console. In this case it takes the argument and prints x = the integer put as the argument.
+- 10 is the argument of the function which can be changed and the parenthesis is what the debug is logging in the console. In this case it takes the argument through the paremeter and prints x = the integer put as the argument.
 
 Q7: What's wrong with this code?
 
