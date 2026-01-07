@@ -11,35 +11,35 @@ Advice:
 ## Activity 2
 Q1: What is the value of x after these lines of code?
 
-x = 10
+- x = 10
 
 Q2: What is the value of x after these lines of code?
 
-x = 2
+- x = 2
 
 Q3: What do these lines of code do?
 
-Every frame print in console "hello world"
+- Every frame print in console "hello world"
 
 Q4: What kind of classes are the Update and Debug.Log methods usable in? I.e., what should replace the ???s ?
 
-"MonoBehavior"
+- "MonoBehavior"
 
 Q5: What do these lines of code do?
 
-10 is the argument put for the PrintMessage function printing in the console "x = 10"
+- 10 is the argument put for the PrintMessage function printing in the console "x = 10"
 
 Q6: What are the name & purpose of these highlighted lines of code?
 
-10 is the parameter of the function which can be changed and the parenthesis is what the debug is logging in the console. In this case it takes the argument and prints x = the integer put as the argument.
+- 10 is the parameter of the function which can be changed and the parenthesis is what the debug is logging in the console. In this case it takes the argument and prints x = the integer put as the argument.
 
 Q7: What's wrong with this code?
 
-The code is not properly calling the transform variable. This would give an error.
+- The code is not properly calling the transform variable. This would give an error.
  
 
 Q8: What should we change in the highlighted code to fix this?
 
-Replace the Transform with _playerTransform as Transform is the class, not the name of the variable.
+- Replace the Transform with _playerTransform as Transform is the class, not the name of the variable.
 
 ## [HW 1 Link](https://docs.google.com/document/d/1ZloeI2O3HLCZUm7UvvfKdylog4EuKHg3eZPcW1Tevz0/edit?usp=sharing)
