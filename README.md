@@ -42,4 +42,5 @@ Q8: What should we change in the highlighted code to fix this?
 
 - Replace the Transform with _playerTransform as Transform is the class, not the name of the variable.
 
-## [HW 1 Link](https://docs.google.com/document/d/1ZloeI2O3HLCZUm7UvvfKdylog4EuKHg3eZPcW1Tevz0/edit?usp=sharing)
+## Activity 3
+- [HW 1 Link](https://docs.google.com/document/d/1ZloeI2O3HLCZUm7UvvfKdylog4EuKHg3eZPcW1Tevz0/edit?usp=sharing)
