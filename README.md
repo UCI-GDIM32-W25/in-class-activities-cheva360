@@ -44,3 +44,7 @@ Q8: What should we change in the highlighted code to fix this?
 
 ## Activity 3
 - [HW 1 Link](https://docs.google.com/document/d/1ZloeI2O3HLCZUm7UvvfKdylog4EuKHg3eZPcW1Tevz0/edit?usp=sharing)
+
+# W2
+
+Drawing image: ![W2 Drawing](https://simp6.selti-delivery.ru/images3/MG2PenguinModelbd73228ade54a69e.png)
