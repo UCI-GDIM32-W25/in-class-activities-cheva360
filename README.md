@@ -51,3 +51,6 @@ Drawing image: ![W2 Drawing](https://simp6.selti-delivery.ru/images3/MG2PenguinM
 
 # W3
 Kaleb Reyes is my partner.
+
+## Activity 3 Drawing
+<img width="3306" height="2556" alt="birdMG3" src="https://github.com/user-attachments/assets/58e834fe-3a75-4f06-b471-5a3a6ff9c955" />
