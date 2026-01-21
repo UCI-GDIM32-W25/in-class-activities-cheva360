@@ -48,3 +48,6 @@ Q8: What should we change in the highlighted code to fix this?
 # W2
 
 Drawing image: ![W2 Drawing](https://simp6.selti-delivery.ru/images3/MG2PenguinModelbd73228ade54a69e.png)
+
+# W3
+Kaleb Reyes is my partner.
