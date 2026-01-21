@@ -50,6 +50,7 @@ Q8: What should we change in the highlighted code to fix this?
 Drawing image: ![W2 Drawing](https://simp6.selti-delivery.ru/images3/MG2PenguinModelbd73228ade54a69e.png)
 
 # W3
+## Activity 0-2
 Kaleb Reyes is my partner.
 
 ## Activity 3 Drawing
