@@ -4,7 +4,7 @@
 
 ## Activity 1
 Advice:
-- Gauge how much time it will take to make the minigame homework, some may take longer.
+- Gauge how much time it will take to make the minigame homework; some may take longer.
 - Look for help in your table mates, do not be shy!
 - Looking at Unity documentation for help with implementation and function
 
@@ -19,7 +19,7 @@ Q2: What is the value of x after these lines of code?
 
 Q3: What do these lines of code do?
 
-- Every frame print in console "hello world"
+- Every frame, print in console "hello world"
 
 Q4: What kind of classes are the Update and Debug.Log methods usable in? I.e., what should replace the ???s ?
 
@@ -61,7 +61,7 @@ Kaleb Reyes is my partner.
 Kaleb Reyes is my partner.
 
 ### Activity 1 
-When multiple locators are in the project, every instance of the locator script is deleted except one. This is so only one instance of the script is in the scene at a time, as to avoid any issues.
+When multiple locators are in the project, every instance of the locator script is deleted except one. This is so that only one instance of the script is in the scene at a time, to avoid any issues. (singleton)
 
 ### Activity 2
 <img width="2138" height="1448" alt="Blank document" src="https://github.com/user-attachments/assets/0ec02bd7-1073-46ac-995e-12c88ef47618" />
