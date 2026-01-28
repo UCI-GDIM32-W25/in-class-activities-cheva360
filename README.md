@@ -55,3 +55,15 @@ Kaleb Reyes is my partner.
 
 ## Activity 3 Drawing
 <img width="3306" height="2556" alt="birdMG3" src="https://github.com/user-attachments/assets/58e834fe-3a75-4f06-b471-5a3a6ff9c955" />
+
+# W4
+### Activity 0
+Kaleb Reyes is my partner.
+
+### Activity 1 
+When multiple locators are in the project, every instance of the locator script is deleted except one. This is so only one instance of the script is in the scene at a time, as to avoid any issues.
+
+### Activity 2
+
+
+### Activity 3
