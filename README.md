@@ -68,3 +68,7 @@ When multiple locators are in the project, every instance of the locator script 
 
 
 ### Activity 3
+[Github Commit](https://github.com/UCI-GDIM32-W25/HW4/commit/631ba7068582efe6b948ea5c96367868c24007a8)
+- Added pipe instantiation, bird jumping, and pipe destroy offscreen.
+
+
