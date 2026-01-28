@@ -64,6 +64,7 @@ Kaleb Reyes is my partner.
 When multiple locators are in the project, every instance of the locator script is deleted except one. This is so only one instance of the script is in the scene at a time, as to avoid any issues.
 
 ### Activity 2
+<img width="2138" height="1448" alt="Blank document" src="https://github.com/user-attachments/assets/0ec02bd7-1073-46ac-995e-12c88ef47618" />
 
 
 ### Activity 3
