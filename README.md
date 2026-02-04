@@ -117,3 +117,10 @@ ScriptableObjects
 
 Model-View-Controller with C# events
 - Singleton GameController for events and subscriptions (Controller), Scriptable objects and variables of items for data (model), and animations, spriterendering, and particle effects (view)
+
+
+### Activity 4
+
+Jess Tran, Kaleb Reyes, Sebastian Magana
+
+[Final Project Proposal](https://docs.google.com/document/d/11WOaLqc5etO8rKHDXbb_FdNeKd7ZzC0tJGFpK8PWQyE/edit?usp=sharing)
