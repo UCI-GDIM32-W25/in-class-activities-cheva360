@@ -72,3 +72,48 @@ When multiple locators are in the project, every instance of the locator script 
 - Added pipe instantiation, bird jumping, and pipe destroy offscreen.
 
 
+# W5
+
+### Activity 1
+
+I think the design is pretty solid and I would only change having the durability variable in the Item class instead of being defined individually in each subclass.
+
+
+### Activity 2
+
+In the second demo, the Model is represented by the ScriptableObjects that hold the data for the items and dialogue, the View is represented by the visual elements in the scene such as the sprites, UI, and most importantly the dialogue, and the Controller is represented by the player input scripts (spacebar, wasd) for controlling the character and showing inventory.
+
+### Activity 3
+
+Scenario 1 (rhythm game))
+- Instantiating note prefabs pulling from scritpable objects for variables such as speed, size, color, and sprite.
+
+Scenario 2 (team shooter)
+- Model
+	- Stats for abilities, health, ammo, etc depencing on hero chosen
+- View
+	- UI elements for health and ammo and VFX for abilities
+- Controller
+	- User input for movement and shooting abilities
+
+Scenario 3 (farming sim, chosen scenario)
+
+Inheritance with polymorphism
+- If any items or objects have different types of behavior (for example a rock triggers an event when hit,) override over parent behavior
+
+
+Basic parent class, abstract class, and/or interface
+- Inheritance for general usable things interfaces for "plantable, harvestable, destroyable, etc."
+
+
+Finite State Machine with C# enums
+- Different animation states of players and items as well as Enum states for the behaviors of the player.
+
+Singleton
+- GameController/Locator for events and connecting systems
+
+ScriptableObjects
+- For each item if they have different variables which should be tuned in inspector
+
+Model-View-Controller with C# events
+- Singleton GameController for events and subscriptions (Controller), Scriptable objects and variables of items for data (model), and animations, spriterendering, and particle effects (view)

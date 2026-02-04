@@ -826,6 +826,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 83df6117d0b2f424aae7acd800f5f738, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _inventory: []
   _inventoryUI: {fileID: 1845041108}
   _itemText: {fileID: 1552771306}
 --- !u!1660057539 &9223372036854775807
