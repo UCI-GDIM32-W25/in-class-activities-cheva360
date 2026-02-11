@@ -124,3 +124,35 @@ Model-View-Controller with C# events
 Jess Tran, Kaleb Reyes, Sebastian Magana
 
 [Final Project Proposal](https://docs.google.com/document/d/11WOaLqc5etO8rKHDXbb_FdNeKd7ZzC0tJGFpK8PWQyE/edit?usp=sharing)
+
+
+# W6
+
+### Alt Activity 1, Narrative Writing with Freelance Senior Cory Lanham
+
+Cory talked about his experience in narrative writing both as a freelance writer and as a narrative designer for games.
+
+Cory prioritized talking about how to get into the industry as a narrative designer and cited the following advice:
+- Networking!! (how he got an entry level position)
+- Have a portfolio of writing samples related to games (for example, writing a quest or dialogue for an existing game, and also how you believe it could have been improved)
+- Be open to starting in a different position and working your way up, you can start as a QA tester before moving into narrative design (but as mentioned in the talk with the Senior Recruiter for Obsidian, Josh Huang, its important to not directly apply as a QA tester with the sole purpose of moving up, as it can be seen as disingenuous)
+- Be open to freelance work, as it can be a good way to build your portfolio and get experience (and also because getting a full time industry position is extremely difficult at the moment, he is currently working freelance.)
+
+I also asked him a question about his favorite writing pieces he has done, and he cited his work on "The Lone Echo" 1 and 2, as well as his unpublished campaign for Dreadnaught, which he worked on in Germany. 
+
+### Alt Activity 2, Technical Art @ Secret Door with Stephen Coan
+
+Stephen talked about what technical art is and how it is used in game development, as well as his experience.
+
+He described technical artists as responsible for:
+- Shader writing and graphs
+- VFX
+- Rigging and animation
+- Tools development
+- and very importantly, optimization.
+
+He also gave a demo on optimization, talking about how designers sometimes leave in a lot of unnecessary objects in the scene which can cause performance issues, and showed a quick example on how to use the profiler and RenderDoc to find a bottleneck.
+
+In his experience, he specifically cited how he had to optimize a game originally meant to publish only on PC to be able to run on Nintendo Switch, which required a lot of optimization to run at a lower memory cap. 
+
+I also asked him a question about if technical art is only applicable to later stages of development, and he said that it is important to have technical artists in regards to shader graphs, VFX, and early tools developments in pre-production and early production. Of course with things like rigging and animation, and optimization, it plays more of a role in later stages of development.
