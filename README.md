@@ -166,7 +166,7 @@ I also asked him a question about if technical art is only applicable to later s
 Raycasts / Gizmos
 - Used for checking the surface normal for the Player
 - Used to check if the player is grounded
-- Raycasts for the ducks vision (if blocked by trees)
+- Raycasts for the duck's vision (if blocked by trees)
 
 Vectors
 - Translating the duck position normalized towards the player 
@@ -182,6 +182,8 @@ Sebastian Magana, Kaleb Reyes, Jess Tran
 ### Activity 3
 
 Breakdown chart:
+<img width="1300" height="1284" alt="Final Project Breakdown" src="https://github.com/user-attachments/assets/dcb2a338-1e8b-47ea-ab55-0b8d4f454c58" />
+
 
 
 ### Activity 4
