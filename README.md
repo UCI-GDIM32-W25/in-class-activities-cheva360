@@ -156,3 +156,33 @@ He also gave a demo on optimization, talking about how designers sometimes leave
 In his experience, he specifically cited how he had to optimize a game originally meant to publish only on PC to be able to run on Nintendo Switch, which required a lot of optimization to run at a lower memory cap. 
 
 I also asked him a question about if technical art is only applicable to later stages of development, and he said that it is important to have technical artists in regards to shader graphs, VFX, and early tools developments in pre-production and early production. Of course with things like rigging and animation, and optimization, it plays more of a role in later stages of development.
+
+
+# W7
+
+### Activity 1
+
+
+Raycasts / Gizmos
+- Used for checking the surface normal for the Player
+- Used to check if the player is grounded
+- Raycasts for the ducks vision (if blocked by trees)
+
+Vectors
+- Translating the duck position normalized towards the player 
+- RotateTowards for the duck to face the player
+
+
+
+### Activity 2
+
+Sebastian Magana, Kaleb Reyes, Jess Tran
+
+
+### Activity 3
+
+Breakdown chart:
+
+
+### Activity 4
+[Trello link](https://trello.com/invite/b/69951f944f330958a4e6bf2f/ATTIb590dee498bae9e16078073fb9b8e6017C94F692/goofy-goobers-final-tasks)
