@@ -191,3 +191,44 @@ Breakdown chart:
 
 [Commit](https://github.com/lindenreid/GDIM32-Final/commit/5d21622676c7559f7e3f689b9d9ddd8b92f697b3)
 - Changed player movement from tutorial script to personal script (rigidbody velocity), and added IsGrounded with raycast.
+
+
+# W8
+
+### Activity 1 
+Post Processing Demo:
+
+Post processing effects are shaders that affect the look of your entire scene
+- ADD POST PROCESSING PACKAGE** in the unity registry
+- Bloom
+- Color grading!!
+- Vignette
+- Depth of Field
+- Lens Distortion
+
+**Unity packages and Post Processing packages are fine to use for project!** 
+Add to unity from the unity asset store, then package manager.
+
+
+### Activity 2 
+Group Attendance
+
+Sebastian Magana, Kaleb Reyes, Jess Tran
+
+### Activity 3
+Playtest Notes
+
+- Player movement is good and responsive
+- Sprint bar and sprint depletion works
+- Jumped off world, need to add terrain and boundaries
+- Itch description for controls is good, need to add click to interact when implemented
+
+### Activity 4 
+Task Check In
+
+Scope is okay, needs a bit more speed
+- Working on importing psx tree models into the scene
+
+### Activity 5
+
+[Commit](https://github.com/lindenreid/GDIM32-Final/commit/fa46a9d72b8dd78350c3ddd642aa13e207afa284)
