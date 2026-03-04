@@ -232,3 +232,39 @@ Scope is okay, needs a bit more speed
 ### Activity 5
 
 [Commit](https://github.com/lindenreid/GDIM32-Final/commit/fa46a9d72b8dd78350c3ddd642aa13e207afa284)
+
+# W9
+
+### Activity 1
+
+Branching dialogue demo
+
+- Different dialogue options and AMOUNT of branches depending on which initial option you choose
+- This is easily possible IF you have a scalable solution. Hardcoding makes this type of branching dialogue very difficult to implement and scale.
+- You can also make returnable nodes in this flexible system with ScriptableObjects (foldback structure, necessary!!!)
+
+For multiple npc buttons
+- Code on canvas that hooks up the buttons to the currently talking NPC starting node, so that the same buttons can be used for multiple NPCs without having to hardcode to each NPC
+- Singular DialogueManager that handles for multiple npcs
+
+
+### Activity 2
+
+Sebastian Magana, Kaleb Reyes, Jess Tran
+
+### Activity 3
+Playtest Notes
+
+- He liked how it gave clear instructions to get the page
+- Need to add indicator or highlight on the page so that its more clear where to go
+- Indicator for the NPC that they are interactable 
+- Add the rest of the content
+- Add Compass for page navigation (Slenderman Tentacle)
+
+### Activity 4
+On our trello board we are about halfway through our tasks, (15/35) with the main framework code of the game done. Generally most of the rest of the content is regarding the actual creation of assets for the game, so we are well on track to finish on time. We may have to scope down for initial ideas about NPC behaviour, but overall we are still on track to finish with our initial tasks.
+
+### Activity 5
+[Commit](https://github.com/lindenreid/GDIM32-Final/commit/cf5e989fc2e97d3758b32294bbd543595ddb694f)
+
+- Allowing the player to interact with different NPCs with seperate names and dialogue trees.
