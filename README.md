@@ -268,3 +268,27 @@ On our trello board we are about halfway through our tasks, (15/35) with the mai
 [Commit](https://github.com/lindenreid/GDIM32-Final/commit/cf5e989fc2e97d3758b32294bbd543595ddb694f)
 
 - Allowing the player to interact with different NPCs with seperate names and dialogue trees.
+
+
+# W10
+
+### Activity 1
+
+Sebastian Magana, Kaleb Reyes, Jess Tran
+
+### Activity 2 
+Playtesting notes
+
+Mac
+- White Screen on shader (now fixed!!)
+
+General
+- Make the NPC's from gray boxes to actual npcs
+- Door should be more apparent to the player
+- Dialogue choice after quest is finished werent properly showing
+- Arrow should be on top layer
+
+
+### Activity 3
+
+May need to lower the scope for my tasks (3d assets), a bit behind on schedule, but still fit to finish the game on time
